@@ -7,7 +7,7 @@ import { useState } from 'react'
 export default function WhatsAppButton() {
   const [isOpen, setIsOpen] = useState(false)
 
-  const whatsappUrl = "https://wa.me/919876543210?text=Hi%2C%20I%20want%20to%20order%20a%20wedding%20card%20from%20Galaxy%20Printers"
+  const whatsappUrl = "https://wa.me/919880178606?text=Hi%2C%20I%20want%20to%20order%20a%20wedding%20card%20from%20Galaxy%20Printers"
 
   return (
     <div className="fixed bottom-6 right-6 z-50">
