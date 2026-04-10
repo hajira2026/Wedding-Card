@@ -122,7 +122,7 @@ export default function Location() {
                     </div>
                     <div>
                       <p className="font-inter text-sm text-foreground/90 font-semibold">Get in Touch</p>
-                      <p className="font-inter text-sm text-foreground/40">+91 98765 43210</p>
+                      <p className="font-inter text-sm text-foreground/40">+91 9880178606</p>
                       <p className="font-inter text-sm text-foreground/40">info@galaxyprinters.in</p>
                     </div>
                   </div>
